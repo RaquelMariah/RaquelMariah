@@ -6,7 +6,7 @@
 
 ### About me 
 
-:computer::calling: I'm software developer since 2019 with broad experience in Android Development 
+I'm software developer since 2019 with broad experience in Android Development :computer::calling:
 <br/>
 <br/>:ballot_box_with_check: System requirements 
 <br/>:art: Layout specifications 
