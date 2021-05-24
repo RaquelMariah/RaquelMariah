@@ -2,7 +2,7 @@
 
 💻 Mobile Developer 🏡 Brazillian 🌎 São Paulo ✈️ Brazil
 
-[![Linkedin Badge](https://img.shields.io/badge/-RaquelMariah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maryrachel/)](https://www.linkedin.com/in/maryrachel/)
+[![Linkedin Badge](https://img.shields.io/badge/-RaquelMaria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maryrachel/)](https://www.linkedin.com/in/maryrachel/)
 
 ### About me 
 
